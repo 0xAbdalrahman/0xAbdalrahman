@@ -1,7 +1,8 @@
-# Hello, I'm Abdalrahman
 <a href="https://www.linkedin.com/in/abdelrahman-mohammad-15a954237/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a><br>
+
+# Hello, I'm Abdalrahman
 
 A cybersecurity student with a passion for defending systems, analysing threats, and learning how attackers operate in real-world scenarios.
 
