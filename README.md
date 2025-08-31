@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I’m Abdalrahman Mohamed, a cybersecurity student with a passion for defending systems, analysing threats, and learning how attackers operate in real-world scenarios.
+A cybersecurity student with a passion for defending systems, analysing threats, and learning how attackers operate in real-world scenarios.
 
 ## Objective
 I’m a Junior Cyber Analyst with hands-on experience in monitoring, detecting, and analyzing cybersecurity threats using SIEM tools and log analysis. I’m skilled in identifying Indicators of Compromise (IOCs), investigating phishing attacks, and analyzing attacker behavior using the MITRE ATT&CK framework. I’m looking for an opportunity to join a dynamic security team and continue growing in cyber defense, incident response, and digital forensics.
